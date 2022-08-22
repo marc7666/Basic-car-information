@@ -1,0 +1,14 @@
+Vehicle type -> Hybrid
+Vehicle brand -> Toyota
+Vehicle model -> Yaris Cross
+Vehicle VIN -> 12345678945217985
+Registration country -> Spain
+Registration plate -> 4788 MMM
+Environmental distinction -> ECO
+Kilometers -> 2000
+Vehicle fuel -> Gasoline/Electric
+Engine displacement -> 1500
+Vehicle power -> 115
+Vehicle transmission -> Automatic
+Vehicle traction -> FWD
+Tyre measures -> 215/55 R 17 94V
